@@ -1,5 +1,4 @@
 # DRCC_IES
-This is in fufillment of my Msc thesis at DTU in Distributionally Robust Chance-Constrained Flexibility Provision of P2HH Infrastructure for Integrated Energy System
 
 reference_data_set-v1.0.0.xlsx available @
 
