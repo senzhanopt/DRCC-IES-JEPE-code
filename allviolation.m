@@ -1,6 +1,6 @@
 clear;clc;
 load CC_P2HH_EB_99
-load wind
+load wind_sim
 T = 24;
 C = (2.5*0.66*4200+21000*0.66*0.3/56*65.87)/(3.6E6); %specific heat, kW/Celsius degree
 R_eqv = 0.167E3; %C / kW
